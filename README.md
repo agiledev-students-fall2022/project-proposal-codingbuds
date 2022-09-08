@@ -35,7 +35,7 @@ Process of the system is as follows:
 The project is not too easy due to all of the features that needed to be implemented. However it is not too hard since with hard-working team members we can break these features into small sizes and progressively work up to final project. 
 
 
-# Proposal #1 
+# Proposal #2 
 ###### **By Adib El Ounani** 
 
 ## Project Title - TutorMe
